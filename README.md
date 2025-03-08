@@ -14,9 +14,11 @@ Bright Doc is a professional agency website built using **HTML, CSS, and JavaScr
 - **JavaScript** - For interactivity (Dark Mode Toggle)  
 
 ## 📷 Screenshot
-![Bright Doc Screenshot](https://your-image-link.com) *(Replace with actual screenshot link)*  
+![image](https://github.com/user-attachments/assets/a6885801-1450-4480-92e5-98b028fed9de)
+![image](https://github.com/user-attachments/assets/59f88d67-2e8b-4419-968e-0838468ca3e8)
+
 
 ## 🔧 Installation & Usage
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/bright-doc.git
+   git clone https://github.com/jobayerhoquesiddique/Bright Doc
